@@ -263,7 +263,7 @@ master01可以直接登录master02和master03，不需要输入密码。
 [root@master01 ~]# yum install -y yum-utils   device-mapper-persistent-data   lvm2
 ```
 
-![image-20200309101722548](E:%5Cjianguo%5Cimage-20200309101722548.png)
+![image-20200311145729850](https://i.loli.net/2020/03/11/4iGN3M5FuqwDY2v.png)
 
 ## 2. 设置Docker源
 
